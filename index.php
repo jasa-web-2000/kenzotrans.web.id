@@ -55,9 +55,7 @@ $rute = [
   "Travel Jatinangor Jakarta",
 
 
-  "Travel Garut Tangerang",
   "Travel Garut Depok",
-  "Travel Jatinangor Tangerang",
   "Travel Jatinangor Depok",
 
 
@@ -67,9 +65,7 @@ $rute = [
   "Travel Jakarta Jatinangor",
 
 
-  "Travel Tangerang Garut",
   "Travel Depok Garut",
-  "Travel Tangerang Jatinangor",
   "Travel Depok Jatinangor",
 
 
