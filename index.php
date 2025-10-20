@@ -7,7 +7,7 @@ $logo = 'src/img/logo.jpg';
 $logoPanjang = $logo;
 $title = $brand . " - Travel Garut Jatinagor Bandara Jakarta";
 $desc = $brand . " menawarkan jasa Travel Garut Jatinagor Bandara Jakarta dengan harga murah";
-$telp = '0812-2284-0577';
+$telp = '0813-1396-6839';
 // $telp2 = '0858-2179-2395';
 $alamat = 'Perumahan AKA 2 Blok DD8, RX36+VC5 Situsaeur, Kabupaten Garut, Jawa Barat';
 $iframe = 'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3958.3979799859194!2d107.95852857499908!3d-7.195350192809978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zN8KwMTEnNDMuMyJTIDEwN8KwNTcnNDAuMCJF!5e0!3m2!1sid!2sid!4v1744540485076!5m2!1sid!2sid';
@@ -55,8 +55,8 @@ $rute = [
   "Travel Jatinangor Jakarta",
 
 
-  "Travel Garut Depok",
-  "Travel Jatinangor Depok",
+  "Travel Garut Tangerang",
+  "Travel Jatinangor Tangerang",
 
 
   "Travel Bandara Garut",
@@ -65,8 +65,8 @@ $rute = [
   "Travel Jakarta Jatinangor",
 
 
-  "Travel Depok Garut",
-  "Travel Depok Jatinangor",
+  "Travel Tangerang Garut",
+  "Travel Tangerang Jatinangor",
 
 
   // "Travel Garut Bandara",
